@@ -1,5 +1,5 @@
 #coding : utf-8
-__author__ = 'Yuna Phrolov'
+__author__ = 'Yuna Frolov'
 
 
 class Heuristic:
