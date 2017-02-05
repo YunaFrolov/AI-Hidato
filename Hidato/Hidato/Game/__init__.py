@@ -1,5 +1,5 @@
 #coding : utf-8
-__author__ = 'Yuna Phrolov'
+__author__ = 'Yuna Frolov'
 
 
 # to perform a deep copy of the board, for the need to add a number each time
